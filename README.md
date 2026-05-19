@@ -194,4 +194,3 @@ Below is a categorized list of all designs included in this library. Click on an
 
 ---
 
-*Curated with ❤️ by Aayush Soam*
